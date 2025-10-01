@@ -1,4 +1,5 @@
-## Hi there 👋
+## ¡Hola!
+Soy Axel, un chico joven en el que la curiosidad por explorar me lleva a aprender más y poseer conocimientos más allá de la educación para la que me estoy formando.
 
 <!--
 **agarciatrivino07-web/agarciatrivino07-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
