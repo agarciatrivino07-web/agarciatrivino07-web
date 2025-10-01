@@ -25,6 +25,16 @@
         <td>Educación Secundaria Obligatoria</td>
       </tr>
     </table>
+    <hr>
+    <table>
+      <tr>
+        <td>Soy muy trabajador</td>
+        <td>Muy amigable</td>
+        <td>Con ganas de aprender</td>
+      </tr>
+    </table>
+    <h3>Todo lo que sea ampliar mis conocimientos siempre es bienvenido</h3>
+    <h4> La curiosidad siempre me lleva a aprender más y a ampliar mis conocimientos </h4>
   </body>
 </html>
 
