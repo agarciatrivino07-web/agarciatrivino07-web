@@ -10,7 +10,7 @@
   <body>
     <table border="1px">
       <tr>
-        <td>IES ITACA (ALCORCÓN</td>
+        <td>IES ITACA (ALCORCÓN)</td>
         <td>(Sept 2025 - Jun 2027)</td>
         <td>Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.</td>
       </tr>
