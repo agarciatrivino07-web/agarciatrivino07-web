@@ -1,54 +1,18 @@
-<!DOCTYPE html>
-<html>
-  <h1>¡Hola!</h1>
-  <h3>
-    Soy Axel, un chico joven en el que la curiosidad por explorar me lleva a aprender más y poseer conocimientos más allá de la educación para la que me estoy formando.
-  </h3>
-  <h4>
-    Mis estudios han sido los siguientes:
-  </h4>
-  <body>
-    <table border="1px">
-      <tr>
-        <td>IES ITACA (ALCORCÓN)</td>
-        <td>(Sept 2025 - Jun 2027)</td>
-        <td>Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.</td>
-      </tr>
-      <tr>
-        <td>IES GABRIEL GARCÍA MÁRQUEZ (LEGANÉS)</td>
-        <td>(Sept 2023 - Jun 2025)</td>
-        <td> Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes.</td>
-      </tr>
-      <tr>
-        <td>IES ITACA (ALCORCÓN)</td>
-        <td>(Sept 2019 - Jun 2023)</td>
-        <td>Educación Secundaria Obligatoria</td>
-      </tr>
-    </table>
-    <hr>
-    <table>
-      <tr>
-        <td>Soy muy trabajador</td>
-        <td>Muy amigable</td>
-        <td>Con ganas de aprender</td>
-      </tr>
-    </table>
-    <h3>Todo lo que sea ampliar mis conocimientos siempre es bienvenido</h3>
-    <h4> La curiosidad siempre me lleva a aprender más y a ampliar mis conocimientos </h4>
-  </body>
-</html>
+# 💫 About Me:
+<br>👋 ¡Hola! Soy Axel <br> 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por la tecnología, la programación y el aprendizaje continuo.<br>🎯 Me interesa la desarrollo de software multiplataforma, apps móviles y herramientas útiles para estudiantes.<br>📚 Actualmente estoy aprendiendo HTML, CSS, Java, SQL y Git. <br><br>🚀 Tecnologías y herramientas<br><br>Lenguajes: Java, Python, C<br><br>Bases de datos: MySQL, SQLite<br><br>Otros: Git, GitHub, Linux<br><br><br>📌 Objetivos<br><br>Mejorar mis habilidades en desarrollo de aplicaciones móviles y de escritorio<br><br>Compartir proyectos útiles y prácticos<br><br>Conectar con otros estudiantes y desarrolladores<br><br>✨ “Cada error es un verso, cada solución un poema.”
 
-<!--
-**agarciatrivino07-web/agarciatrivino07-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axelgatri_07) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@axelgatri_07) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=agarciatrivino07-web&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=agarciatrivino07-web&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agarciatrivino07-web&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=agarciatrivino07-web&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
