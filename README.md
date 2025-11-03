@@ -1,4 +1,6 @@
 # 💫 About Me:
+![](https://komarev.com/ghpvc/?username=agarciatrivino07-web)
+<br>
 <br>👋 ¡Hola! Soy Axel <br> 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por la tecnología, la programación y el aprendizaje continuo.<br>🎯 Me interesa el  desarrollo de software multiplataforma, apps móviles y herramientas útiles para estudiantes.<br>📚 Actualmente estoy aprendiendo Java, SQL y Git. <br><br>🚀 Tecnologías y herramientas<br><br>Lenguajes: Java, Python, C<br><br>Bases de datos: MySQL,<br><br>Otros: Git, GitHub, Linux<br><br><br> <br><br> 📚 Lo que me gustaría aprender: <hr>- Kotlin <hr> - TypeScript <hr> - JavaScript <hr> - C# <hr> - Todo lo que sea aprender más es bienvenido
 
 📌 Objetivos<br><br>Mejorar mis habilidades en desarrollo de aplicaciones móviles y de escritorio<br>
@@ -15,5 +17,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=agarciatrivino07-web&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agarciatrivino07-web&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=agarciatrivino07-web&icon=2&color=0)](https://visitcount.itsvg.in)
+<br><br>
+## PAC-MAN
+<p align = "center">
+	<img src = "https://usagif.com/wp-content/uploads/2022/fzk5d/30-huge-maze-pacman.gif" alt = "PAC-MAN"/>
+</p> 
