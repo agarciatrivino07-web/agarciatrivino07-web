@@ -3,7 +3,7 @@
 <br>👋 ¡Hola! Soy Axel <br> 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por la tecnología, la programación y el aprendizaje continuo.<br>🎯 Me interesa el  desarrollo de software multiplataforma, apps móviles y herramientas útiles para estudiantes.<br>📚 Actualmente estoy aprendiendo Java, SQL y Git. <br><br>🚀 Tecnologías y herramientas<br><br>Lenguajes: Java, Python, C<br><br>Bases de datos: MySQL,<br><br>Otros: Git, GitHub, Linux<br>
 
 <br> 
-<h1> 📚 Lo que me guastaría aprender:  </h1>
+<h1> 📚 Lo que me gustaría aprender:  </h1>
 
 <hr>- Kotlin <hr> - TypeScript <hr> - JavaScript <hr> - C# <hr> - Todo lo que sea aprender más es bienvenido
 <hr>
