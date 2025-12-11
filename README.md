@@ -23,8 +23,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=agarciatrivino07-web&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=agarciatrivino07-web&theme=neon&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agarciatrivino07-web&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br><br>
+
 ## PAC-MAN
 <p align = "center">
 	<img src = "https://usagif.com/wp-content/uploads/2022/fzk5d/30-huge-maze-pacman.gif" alt = "PAC-MAN"/>
