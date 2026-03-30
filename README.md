@@ -12,8 +12,13 @@
 
 <br><br> - Mejorar mis habilidades en desarrollo de aplicaciones móviles y de escritorio<br>
 <br> - Me quiero especializar más en lo que es backend, y explotar mis conocimientos y llevarlos al máximo <br> - Compartir proyectos útiles y prácticos<br><br> - Aprender cada día más y mejor, que todo el esfuerzo tiene su recompensa. <br><br>
-<i><b><sub>✨ “Cada error es un verso, cada solución un poema.”</sub></b></i>
-<br><br><br>
+<i><b><sub>
+
+> ✨ “Cada error es un verso, cada solución un poema.”
+<br>
+
+> ⭐ “Si llego a la meta, seré un gran poeta”
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axelgatri_07) 
