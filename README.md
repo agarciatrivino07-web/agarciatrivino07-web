@@ -5,9 +5,10 @@
 <br> 
 <h1> 📚 Lo que me gustaría aprender:  </h1>
 
-<hr>- Kotlin <hr> - TypeScript <hr> - JavaScript <hr> - C# <hr> - Todo lo que sea aprender más es bienvenido
+<hr>- Kotlin <hr> - TypeScript <hr> C# 
 <hr>
 <br>
+
 <i>📌 Objetivos</i>
 
 <br><br> - Mejorar mis habilidades en desarrollo de aplicaciones móviles y de escritorio<br>
@@ -17,7 +18,12 @@
 > ✨ “Cada error es un verso, cada solución un poema.”
 <br>
 
+>  “Todos los días se aprende algo nuevo”
+
+<br>
+
 > ⭐ “Si llego a la meta, seré un gran poeta”
+
 
 
 ## 🌐 Socials:
@@ -31,7 +37,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agarciatrivino07-web&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br>
 
-## PAC-MAN
+## Monito
 <p align = "center">
-	<img src = "https://usagif.com/wp-content/uploads/2022/fzk5d/30-huge-maze-pacman.gif" alt = "PAC-MAN"/>
+	<img src = "https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f648.gif" alt = "Monito"/>
 </p> 
